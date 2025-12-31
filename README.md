@@ -1,91 +1,129 @@
-- 👋 Hi, I’m @Akshaykolkur
-# Akshay Kolkur
-### Software Engineer
+# 👋 Hi, I’m Akshay Kolkur
 
-**Location:** Dharwad  
-**Phone:** 9380036809
-
----
-
-## About Me
-As an aspiring Full Stack Developer and current engineering student, I possess a solid foundation in both frontend and backend development technologies.
+### Automation Engineer | Backend Python Engineer  
+📍 Dharwad, India  
+📧 Email: akshaykolkur@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/akshay-kolkur-8469041b3  
 
 ---
 
-## Personal Information
-- **Address:** Dharwad
-- **Nationality:** [Your Nationality]
-- **Driving License:** [Yes/No]
-- **Hobbies:** 
-  - Professional Guitarist
-  - E-Sports
-  - Chess
-  - Painting
-  - Cars
+## 🚀 About Me
+
+I am an **Automation Engineer and Backend Python Engineer** with hands-on experience designing
+**production-style automation pipelines**, API-driven systems, and CI/CD workflows.
+
+I specialize in:
+- Building **compliance-heavy automation pipelines**
+- Integrating **REST APIs & OAuth-based services**
+- Creating **mock-safe architectures** for CI execution
+- Automating UI workflows using **Playwright**
+- Writing clean, modular, and testable Python code
+
+I enjoy solving real-world problems by automating repetitive processes and designing scalable backend systems.
 
 ---
 
-## Social Profiles
-- **LinkedIn:** [Akshay Kolkur](https://www.linkedin.com/in/akshay-kolkur-8469041b3)
+## 🛠️ Technical Skills
+
+**Languages**
+- Python, JavaScript
+
+**Automation & Backend**
+- Automation Pipelines
+- REST APIs & OAuth
+- API Integrations
+- Mock Testing
+- Playwright (UI Automation)
+
+**CI/CD & Tools**
+- GitHub Actions
+- Git
+- Linux
+
+**Platforms & Services**
+- Webex API
+- Vimeo API
+- LMS Platforms
+
+**Data & Analysis**
+- SQL
+- Excel
+- Dashboards
 
 ---
 
-## Languages
-- **English:** ★★★★★
-- **Hindi:** ★★★★★
-- **Kannada:** ★★★★★
+## 💼 Featured Projects
+
+### 🔹 Webex Compliance Automation Pipeline
+- Designed and implemented a **production-ready automation pipeline** to process Webex meeting recordings.
+- Automated retrieval of meeting metadata, recording downloads, attendance extraction, and uploads to Vimeo.
+- Built a **modular architecture** separating API clients, orchestration logic, and configuration layers.
+- Implemented **mock services** to allow safe CI execution without real credentials.
+- Integrated **GitHub Actions CI** to validate pipeline execution on every commit.
+
+**Tech Stack:** Python, REST APIs, OAuth, GitHub Actions, CI/CD
 
 ---
 
-## Skills
-- **HTML:** ★★★★★
-- **CSS:** ★★★☆☆
-- **SQL:** ★★★★☆
-- **JavaScript:** ★★★★☆
-- **Java:** ★★★☆☆
-- **C lang:** ★★★☆☆
-- **C++:** ★★★☆☆
+### 🔹 LMS Automation Using Playwright
+- Automated LMS workflows including course creation, page setup, and content linkage.
+- Implemented **Page Object Model (POM)** for maintainable and scalable UI automation.
+- Reduced repetitive manual setup tasks and improved consistency across LMS environments.
+
+**Tech Stack:** Playwright, JavaScript, UI Automation
 
 ---
 
-## Work Experience
+### 🔹 UpSolve – Online Coding Platform
+- Built a coding platform providing interactive challenges and tutorials with user progress tracking.
+- Contributed to backend logic and UI design to improve engagement and scalability.
 
-### Image Colorization
-**February 2021 – April 2021**
-
-- Developed and implemented an image colorization algorithm using deep learning techniques, resulting in improved color accuracy and visual appeal for grayscale images.
-- Implemented a CNN model that converted black-and-white images to colored images using Deep Learning.
-
-### Musical Instrument Lending App
-**April 2023 – June 2023**
-
-- Led the development of a mobile application that enables users to borrow and lend musical instruments, fostering a vibrant musical community.
-- Technical Skills Utilized: Leveraged expertise in mobile app development, user experience design, and database management to bring the project to fruition.
-- Tech Stack: Kotlin, XML.
-
-### UpSolve - A Complete Coding Platform
-**June 2023 – February 2024**
-
-- UpSolve is a comprehensive coding platform designed to empower users with interactive coding challenges, educational resources, and a supportive community.
-- Played a pivotal role in the development and growth of the platform.
-- Tech Stack: React.js, CSS, HTML, MongoDB, and VS Code.
+**Tech Stack:** React.js, HTML, CSS, MongoDB
 
 ---
 
-## Education
+## 🧑‍💻 Professional Experience
 
-- **SDM College of Engineering and Technology, Dharwad**  
-  BE (June 2020 – May 2024)
-  
-- **ICS Mahesh Pu College, Dharwad**  
-  PU Science (2018 – 2020)
-  
-- **JSS SMEMS, Dharwad**  
-  10th Board (2017 – April 2018)
+### Operations Associate 
+- Resolved learner queries via email and support channels with a focus on timely and professional resolution.
+- Diagnosed and fixed LMS access, performance, login, and browser compatibility issues.
+- Analyzed learner datasets using **SQL and Excel** to identify recurring technical issues.
+- Built dashboards to track system performance and user experience trends.
+- Collaborated with product and engineering teams to accelerate issue resolution.
 
 ---
 
-## Internships
+## 🎓 Education
 
-### Big Data and Cloud Computing at YBI - foundation
-**May 2023 – June 2023**
+**B.E. – Information Science & Engineering**  
+SDM College of Engineering and Technology, Dharwad (2020 – 2024)
+
+**Pre-University**  
+Mahesh PU College, Dharwad (2018 – 2020)
+
+---
+
+## 🏆 Certifications
+
+- **EY Financial Accounting Advisory Services (FAAS)** – Forage  
+- **Third Bridge – Client Service Delivery** – Forage  
+
+---
+
+## 🌐 Languages
+- English – Fluent  
+- Hindi – Fluent  
+- Kannada – Fluent  
+
+---
+
+## 🎸 Personal Interests
+- Professional Guitarist
+- Chess
+- E-Sports
+- Cars & Automotive Tech
+- Painting
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
